@@ -1,8 +1,4 @@
 import http from "node:http";
-import path from "node:path";
-import fs from "node:fs";
-
-import http from "node:http";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname } from "node:path";
